@@ -8,8 +8,8 @@
         <a href="https://www.linkedin.com/in/rodrigo-teixeira-silva/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
         </a>
+    </div>
 </div>
-
 
 ### GitHub Starts
 
@@ -33,8 +33,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)<br>
 
 </div>
- 
 
+## Cobrinha dos commits:
 
-
-
+![Snake animation](https://github.com/rodrigo-teixeira-silva/rodrigo-teixeira-silva/blob/output/github-contribution-grid-snake.svg)
