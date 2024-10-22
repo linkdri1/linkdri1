@@ -34,6 +34,3 @@
 
 </div>
 
-## Cobrinha dos commits:
-
-![Snake animation](https://github.com/rodrigo-teixeira-silva/rodrigo-teixeira-silva/blob/output/github-contribution-grid-snake.svg)
